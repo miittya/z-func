@@ -1,0 +1,3 @@
+C:/AlgTrain4.0_C++20/cmake-build-debug/CMakeFiles/AlgTrain4_0_C__20.dir
+C:/AlgTrain4.0_C++20/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/AlgTrain4.0_C++20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
